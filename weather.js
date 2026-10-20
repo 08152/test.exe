@@ -1,0 +1,1 @@
+export function rain(){} export function snow(){}

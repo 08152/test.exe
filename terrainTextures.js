@@ -1,0 +1,1 @@
+export const terrainRules={grass:[0,25],dirt:[25,45],rock:[45,75],cliff:[75,90],snow:1500};
